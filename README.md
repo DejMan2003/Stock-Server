@@ -39,3 +39,16 @@ A **Random Forest classifier** predicts these categories and assigns a probabili
 
 ## 🚀 How To Run
 1. Install dependencies:
+
+2. Run the notebook or Python script:
+
+3. Open the `.ipynb` file and run all cells.
+
+## 🗂 Output Includes
+- Prediction table with Alert (Green/Yellow/Red)
+- Final classifier performance
+- Visualized price history
+
+## 📬 Contact
+Feel free to connect or open an issue if you’d like to collaborate or improve the model!
+
